@@ -1,4 +1,4 @@
-# Project Title
+# ForecastIzzy
 ForecastIzzy
 Final project for building AI course
 <!-- This is the markdown template for the final project of the Building AI course, 
